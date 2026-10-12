@@ -55,17 +55,6 @@ const projectsList: ProjectCardProps[] = [
     githubLink: "https://github.com/aqubaev1-sketch/----ashyqbilim-final------",
     isLive: true,
   },
-  {
-    title: "Agro Ai",
-    description:
-      "Agro AI — это интеллектуальная AI-платформа для диагностики заболеваний растений по фотографиям.",
-    image: "/agroai.jpg",
-    tags: ["Next.JS", "Node.JS", "Supabase", "Tailwind CSS"],
-    liveLink: "https://agro-ai-rosy.vercel.app",
-    githubLink: "https://github.com/aqubaev1-sketch/Agro-AI.git",
-    isLive: true,
-  },
-
 ];
 
 export default function Projects() {
