@@ -29,7 +29,7 @@ const projectsList: ProjectCardProps[] = [
     title: "Zerde AI ",
     description:
       "ZERDE AI — интеллектуальная образовательная платформа для подготовки школьников Казахстана к ЕНТ.",
-    image: "/agroai.jpg",
+    image: "/zerde.jpg",
     tags: ["Next.JS", "Node.JS", "Neon","N8N","TypeScript", "Tailwind CSS"],
     liveLink: "https://testzerde01.vercel.app",
     githubLink: "https://github.com/aqubaev1-sketch/testzerde01.git",
