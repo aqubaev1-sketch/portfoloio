@@ -26,6 +26,16 @@ const projectsList: ProjectCardProps[] = [
     isLive: true,
   },
   {
+    title: "Zerde AI ",
+    description:
+      "ZERDE AI — интеллектуальная образовательная платформа для подготовки школьников Казахстана к ЕНТ.",
+    image: "/agroai.jpg",
+    tags: ["Next.JS", "Node.JS", "Neon","N8N","TypeScript", "Tailwind CSS"],
+    liveLink: "https://testzerde01.vercel.app",
+    githubLink: "https://github.com/aqubaev1-sketch/testzerde01.git",
+    isLive: true,
+  },
+  {
     title: "Room Chat-App",
     description:
       "Simple Room Chat — приложение для мгновенного обмена сообщениями в режиме реального времени, позволяющее создавать комнаты, приглашать друзей и общаться без задержек.",
@@ -45,6 +55,17 @@ const projectsList: ProjectCardProps[] = [
     githubLink: "https://github.com/aqubaev1-sketch/----ashyqbilim-final------",
     isLive: true,
   },
+  {
+    title: "Agro Ai",
+    description:
+      "Agro AI — это интеллектуальная AI-платформа для диагностики заболеваний растений по фотографиям.",
+    image: "/agroai.jpg",
+    tags: ["Next.JS", "Node.JS", "Supabase", "Tailwind CSS"],
+    liveLink: "https://agro-ai-rosy.vercel.app",
+    githubLink: "https://github.com/aqubaev1-sketch/Agro-AI.git",
+    isLive: true,
+  },
+
 ];
 
 export default function Projects() {
